@@ -1,8 +1,8 @@
 # Cybersecurity : CSN150
-Project: ESP32 XXXXXXXX
+Project: ESP32 Camera
 
 ## Purpose
-Set up ESP32 and Arduino enviornment. Execute sketch " Wifiscanner". 
+. 
 
 ## Equipment
 * [ESP32Cam](https://www.amazon.com/Aideepen-ESP32-CAM-Bluetooth-ESP32-CAM-MB-Arduino/dp/B08P2578LV/ref=sr_1_3?crid=4FY0ECFW0ZX7&keywords=ESP32+Cam&qid=1678902050&sprefix=esp32+cam%2Caps%2C240&sr=8-3)
@@ -11,9 +11,9 @@ Set up ESP32 and Arduino enviornment. Execute sketch " Wifiscanner".
 
 ## Links to documentation and tools
 
-##### Video 1: 
+##### Video 1: https://youtu.be/4inE-n6kXSE?si=9BHPY23mI0P9qf1C
 
-##### Other Links: 
+##### Other Links: https://lastminuteengineers.com/getting-started-with-esp32-cam/
 
 ##### AI GPTs used
 
